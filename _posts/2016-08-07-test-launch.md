@@ -13,6 +13,4 @@ date: 2016-08-07
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
 
-I can even include _maps_
-
-{% google_map %}
+Need to get Maps plug in working...
