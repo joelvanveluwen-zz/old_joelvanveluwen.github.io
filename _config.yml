@@ -1,6 +1,6 @@
 name: Joel Van Veluwen
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 permalink: /blog/:year/:month/:day/:title
 gems:
     - jekyll-maps
